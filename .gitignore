@@ -1,0 +1,5 @@
+*.tgz
+*.kubeconfig
+*.local.yaml
+*.secret.yaml
+kubeconfig
